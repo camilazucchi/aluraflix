@@ -1,11 +1,13 @@
-import './App.css'
+import './style/reset.css';
+import './style/normalize.css';
 
 function App() {
 
   return (
     <div className="App">
+      Teste
     </div>
   )
 }
 
-export default App
+export default App;
